@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@heroicons/vue": "^2.1.1",
+    "@vue-hero-icons/outline": "^1.7.2",
+    "vue-router": "^4.2.5",
+    "vue-unicons": "^3.3.1"
+  }
+}
